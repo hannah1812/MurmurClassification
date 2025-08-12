@@ -74,5 +74,6 @@ Metrics: Accuracy
 **5. Results**
 
 Cross-validation performance:
-Mean accuracy: 0.7606
-Standard deviation: 0.0061
+**Mean accuracy: 0.7606
+
+Standard deviation: 0.0061**
